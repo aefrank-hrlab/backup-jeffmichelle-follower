@@ -1,0 +1,8 @@
+prefix=/home/turtlebot/turtlebot_ws/devel
+
+Name: sound_play
+Description: Description of sound_play
+Version: 0.3.1
+Cflags: -I/home/turtlebot/turtlebot_ws/devel/include -I/home/turtlebot/turtlebot_ws/src/hri-w17-turtlebot/audio_common/sound_play/include
+Libs: -L/home/turtlebot/turtlebot_ws/devel/lib 
+Requires: message_runtime actionlib_msgs

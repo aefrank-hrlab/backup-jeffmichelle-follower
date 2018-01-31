@@ -1,0 +1,8 @@
+prefix=/home/turtlebot/turtlebot_ws/devel
+
+Name: audio_play
+Description: Description of audio_play
+Version: 0.3.1
+Cflags: 
+Libs: -L/home/turtlebot/turtlebot_ws/devel/lib 
+Requires: 
